@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @helly-15
 - 👀 I’m interested in TypeScript, JavaScript, Scss, React, Redux
-- 🌱 I’m currently learning Redux Toolkit, Styled Components
-- 💞️ I’m looking to collaborate on cool projects with good architecture, mentors, Scrum workflow
+- 💞️ I’m looking to collaborate on cool projects with good architecture
 - 📫 How to reach me - telegram @siropcik
 
 <!---
